@@ -1,0 +1,35 @@
+_repo: The-Letters-of-Franklin-K-Lane-Personal-and-Political_4206
+contributor:
+  creator:
+    editors:
+    - agent_name: Lane, Anne Wintermute
+      gutenberg_agent_id: '1397'
+      url: http://www.gutenberg.org/2009/agents/1397
+    - agent_name: Wall, Louise Herrick
+      birthdate: 1866
+      gutenberg_agent_id: '1398'
+      url: http://www.gutenberg.org/2009/agents/1398
+creator:
+  author:
+    agent_name: Lane, Franklin K.
+    alias: Lane, Franklin Knight
+    birthdate: 1864
+    deathdate: 1921
+    gutenberg_agent_id: '1396'
+    url: http://www.gutenberg.org/2009/agents/1396
+    wikipedia: http://en.wikipedia.org/wiki/Franklin_Knight_Lane
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'United States -- Politics and government -- 1913-1921'
+title: The Letters of Franklin K. Lane, Personal and Political
+url: http://www.gutenberg.org/ebooks/4206
