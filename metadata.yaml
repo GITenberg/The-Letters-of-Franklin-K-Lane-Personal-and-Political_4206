@@ -1,5 +1,5 @@
 _repo: The-Letters-of-Franklin-K-Lane-Personal-and-Political_4206
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -37,5 +37,6 @@ subjects:
 - !lcc 'E740'
 - !lcsh 'World War, 1914-1918 -- United States'
 - !lcsh 'United States -- Politics and government -- 1913-1921'
+- GITenberg
 title: The Letters of Franklin K. Lane, Personal and Political
 url: http://www.gutenberg.org/ebooks/4206
